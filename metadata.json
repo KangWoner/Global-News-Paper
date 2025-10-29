@@ -1,0 +1,5 @@
+{
+  "name": "국제 뉴스 페이퍼",
+  "description": "An AI-powered application that generates comprehensive, visually-rich news reports on a given topic for specified countries. It performs research, translates content, and generates relevant imagery to create a complete webpage report.",
+  "requestFramePermissions": []
+}
